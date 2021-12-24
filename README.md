@@ -16,12 +16,19 @@ I'll organize all my starred repositories here.
 - [Tencent / LuaPanda](https://github.com/Tencent/LuaPanda) lua debug and code tools for VS Code 
 - [nicoster / lua-resty-console](https://github.com/nicoster/lua-resty-console) Interactive console (REPL) for Openresty to inspect Lua VM internals, to run lua code, to invoke functions and more 
 
-### Others
+### distributions
+- [jjensen / luaplus51-all](https://github.com/jjensen/luaplus51-all) Full LuaPlus distribution 
+
+### serialize
+- [luapower / messagepack](https://github.com/luapower/messagepack) MessagePack encoder/decoder for LuaJIT 
+
+### others
 - [ahgamut / LuaJIT-cosmo](https://github.com/ahgamut/LuaJIT-cosmo) LuaJIT 2.1.0-beta3 compiled with Cosmopolitan Libc 
   - [jart / cosmopolitan](https://github.com/jart/cosmopolitan) build-once run-anywhere c library 
 - [ak-fau / LuaJIT-RV](https://github.com/ak-fau/LuaJIT-RV) Mirror of the LuaJIT git repository for RISC-V port development and experiments 
 - [lalawue / lua-resp](https://github.com/lalawue/lua-resp) RESP (REdis Serialization Protocol) parser for lua 
 - [wapm-packages / lua](https://github.com/wapm-packages/lua) Lua compiled to WebAssembly 
+- [NightNord / ljd](https://github.com/NightNord/ljd) LuaJIT raw-bytecode decompiler 
 
 ## JavaScript
 
@@ -38,6 +45,7 @@ I'll organize all my starred repositories here.
 - [firefox-devtools / vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) VS Code Debug Adapter for Firefox
 - [AsyncBanana / microdiff](https://github.com/AsyncBanana/microdiff) A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support. 
 - [medz / id-card-of-china-js](https://github.com/medz/id-card-of-china-js) A component to obtain the basic information contained in the ID number based on the "Citizenship ID Number" rule
+- [moonrailgun / chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator) China Address Generator - Level 3 Address Level 4 Address Randomly Generated Full Address 
 
 ## Front-end
 - [LeaVerou / md-block](https://github.com/LeaVerou/md-block) A custom element for rendering stylable (light DOM) Markdown
@@ -52,11 +60,14 @@ I'll organize all my starred repositories here.
 - [prabhatsharma / zinc](https://github.com/prabhatsharma/zinc) Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. 
 - [radiantly / you-cant-download-this-image](https://github.com/radiantly/you-cant-download-this-image) Downloading images from the web is as easy as right clicking them and selecting "Save image as..", right? Well, not anymore xD 
 - [SpoonLabs / sorald](https://github.com/SpoonLabs/sorald) An automatic repair system for bug-related warnings from SonarQube's SonarJava 
+- [toddlerya / fakerfactory](https://github.com/toddlerya/fakerfactory) API services for faking data
+- [fenixsoft / awesome-fenix](https://github.com/fenixsoft/awesome-fenix) Discuss how to build a reliable large-scale distributed system
 
 ## Wikipedia
 - [dijs / infobox-parser](https://github.com/dijs/infobox-parser) Parse Wikipedia Infoboxes
 - [semi-technologies / semantic-search-through-wikipedia-with-weaviate](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate) Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine 
 - [Frederisk / Wikitext-VSCode-Extension](https://github.com/Frederisk/Wikitext-VSCode-Extension) A Visual Studio Code Extension that provides language support for Wikitext. 
+- [Wiki-Contradictory / Wiki-Self-Contradictory](https://github.com/Wiki-Contradictory/Wiki-Self-Contradictory) 
 
 ## Editor related
 - [benweet / stackedit](https://github.com/benweet/stackedit) In-browser Markdown editor
@@ -64,6 +75,12 @@ I'll organize all my starred repositories here.
 - [martinring / tmlanguage](https://github.com/martinring/tmlanguage) json schema for textmate grammar definitions 
 
 ## GIS
+- [kakuilan / china_area_mysql](https://github.com/kakuilan/china_area_mysql) China 5 levels of administrative regions mysql library
+
+## Compiler and parsing
+- [smarr / SOM](https://github.com/smarr/SOM) SOM - Simple Object Machine 
+  - [smarr / are-we-fast-yet](https://github.com/smarr/are-we-fast-yet) Are We Fast Yet? Comparing Language Implementations with Objects, Closures, and Arrays 
+  - [rochus-keller / Som](https://github.com/rochus-keller/Som) Parser, code model, navigable browser and VM for the SOM Smalltalk dialect 
 
 ## Others
 
@@ -78,6 +95,11 @@ I'll organize all my starred repositories here.
 - [Genymobile / gnirehtet](https://github.com/Genymobile/gnirehtet) Gnirehtet provides reverse tethering for Android 
 - [goldenduo / AGB](https://github.com/goldenduo/AGB) A bridge for Android. 
 
+### Rust
+- [AppFlowy-IO / appflowy](https://github.com/AppFlowy-IO/appflowy) AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. 
+- [Rust-GPU / Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. 
+- [ihciah / clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) Dropping GFW DNS contaminated packets based on Rust + eBPF 
+
 ### Miscellaneous
 - [allo- / firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) Tool to create firefox profiles with good defaults. 
 - [PE-CN / PE-CN.github.io](https://github.com/PE-CN/PE-CN.github.io) Project Euler | Chinese translation 
@@ -87,6 +109,5 @@ I'll organize all my starred repositories here.
 - [intoli / exodus](https://github.com/intoli/exodus) Painless relocation of Linux binaries–and all of their dependencies–without containers. 
 - [ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched 
 - [shijiebei2009 / CEC-Corpus](https://github.com/shijiebei2009/CEC-Corpus) Chinese Emergency Corpus
-- [AppFlowy-IO / appflowy](https://github.com/AppFlowy-IO/appflowy) AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. 
 - [Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) This is a theme disguising Typora into Chinese LaTeX style. 
 
