@@ -15,12 +15,18 @@ I'll organize all my starred repositories here.
 - [pkulchenko / MobDebug](https://github.com/pkulchenko/MobDebug) Remote debugger for Lua. 
 - [Tencent / LuaPanda](https://github.com/Tencent/LuaPanda) lua debug and code tools for VS Code 
 - [nicoster / lua-resty-console](https://github.com/nicoster/lua-resty-console) Interactive console (REPL) for Openresty to inspect Lua VM internals, to run lua code, to invoke functions and more 
+- [Tencent / LuaHelper](https://github.com/Tencent/LuaHelper) LuaHelper is a High-performance lua VSCode plugin, Language Server Protocol for lua. 
 
 ### distributions
 - [jjensen / luaplus51-all](https://github.com/jjensen/luaplus51-all) Full LuaPlus distribution 
 
 ### serialize
 - [luapower / messagepack](https://github.com/luapower/messagepack) MessagePack encoder/decoder for LuaJIT 
+
+### resty
+- [BeanYoung / lua-resty-ga](https://github.com/BeanYoung/lua-resty-ga) Send nginx/openresty access log to Google Analytics.
+- [alibaba / tengine](https://github.com/alibaba/tengine) A distribution of Nginx with some advanced features 
+- [cdbattags / lua-resty-jwt](https://github.com/cdbattags/lua-resty-jwt) JWT For The Great Openresty 
 
 ### others
 - [ahgamut / LuaJIT-cosmo](https://github.com/ahgamut/LuaJIT-cosmo) LuaJIT 2.1.0-beta3 compiled with Cosmopolitan Libc 
@@ -29,11 +35,14 @@ I'll organize all my starred repositories here.
 - [lalawue / lua-resp](https://github.com/lalawue/lua-resp) RESP (REdis Serialization Protocol) parser for lua 
 - [wapm-packages / lua](https://github.com/wapm-packages/lua) Lua compiled to WebAssembly 
 - [NightNord / ljd](https://github.com/NightNord/ljd) LuaJIT raw-bytecode decompiler 
+- [kingluo / luajit.io](https://github.com/kingluo/luajit.io)  luajit io framework 
+- [leafo / lapis-bayes](https://github.com/leafo/lapis-bayes) Naive Bayes classifier for use in Lua
 
 ## JavaScript
 
 ### Deno
 - [nestdotland / deno_swc](https://github.com/nestdotland/deno_swc) The SWC compiler for Deno. 
+- [denoland / dnt](https://github.com/denoland/dnt) Deno to npm package build tool. 
 
 ### code lint, format or minimizer
 - [xjamundx / eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise) Enforce best practices for JavaScript promises 
@@ -46,6 +55,8 @@ I'll organize all my starred repositories here.
 - [AsyncBanana / microdiff](https://github.com/AsyncBanana/microdiff) A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support. 
 - [medz / id-card-of-china-js](https://github.com/medz/id-card-of-china-js) A component to obtain the basic information contained in the ID number based on the "Citizenship ID Number" rule
 - [moonrailgun / chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator) China Address Generator - Level 3 Address Level 4 Address Randomly Generated Full Address 
+- [tabatkins / railroad-diagrams](https://github.com/tabatkins/railroad-diagrams) A small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org. Now with a Python port! 
+- [ken107 / read-aloud](https://github.com/ken107/read-aloud) An awesome browser extension that reads aloud webpage content with one click 
 
 ## Front-end
 - [LeaVerou / md-block](https://github.com/LeaVerou/md-block) A custom element for rendering stylable (light DOM) Markdown
@@ -53,6 +64,9 @@ I'll organize all my starred repositories here.
 - [picocss / pico](https://github.com/picocss/pico) Minimal CSS Framework for semantic HTML
 - [fangpenlin / avataaars-generator](https://github.com/fangpenlin/avataaars-generator) Simple generator React app for avataaars 
 - [css-doodle / css-doodle](https://github.com/css-doodle/css-doodle) A web component for drawing patterns with CSS. 
+- [jxxcarlson / minilatex](https://github.com/jxxcarlson/minilatex) parse MiniLaTeX source text and render it into HTML 
+- [excalidraw / excalidraw](https://github.com/excalidraw/excalidraw) Virtual whiteboard for sketching hand-drawn like diagrams 
+- [DouyinFE / semi-design](https://github.com/DouyinFE/semi-design) A modern, comprehensive, flexible design system and React UI library 
 
 ## Back-end
 - [zalando / problem-spring-web](https://github.com/zalando/problem-spring-web) A library for handling Problems in Spring Web MVC 
@@ -62,17 +76,23 @@ I'll organize all my starred repositories here.
 - [SpoonLabs / sorald](https://github.com/SpoonLabs/sorald) An automatic repair system for bug-related warnings from SonarQube's SonarJava 
 - [toddlerya / fakerfactory](https://github.com/toddlerya/fakerfactory) API services for faking data
 - [fenixsoft / awesome-fenix](https://github.com/fenixsoft/awesome-fenix) Discuss how to build a reliable large-scale distributed system
+- [matomo-org / matomo](https://github.com/matomo-org/matomo) Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from webs… 
+- [RediSearch / RediSearch](https://github.com/RediSearch/RediSearch) A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations. 
 
 ## Wikipedia
 - [dijs / infobox-parser](https://github.com/dijs/infobox-parser) Parse Wikipedia Infoboxes
 - [semi-technologies / semantic-search-through-wikipedia-with-weaviate](https://github.com/semi-technologies/semantic-search-through-wikipedia-with-weaviate) Semantic search through a vectorized Wikipedia (SentenceBERT) with the Weaviate vector search engine 
 - [Frederisk / Wikitext-VSCode-Extension](https://github.com/Frederisk/Wikitext-VSCode-Extension) A Visual Studio Code Extension that provides language support for Wikitext. 
 - [Wiki-Contradictory / Wiki-Self-Contradictory](https://github.com/Wiki-Contradictory/Wiki-Self-Contradictory) 
+- [RazeSoldier / Mediawiki-extension-EveOnlineSSOAuth](https://github.com/RazeSoldier/Mediawiki-extension-EveOnlineSSOAuth) This extension expands WSOAuth extension and provide a EveOnline SSO login method 
+- [texttechnologylab / WikiDragon](https://github.com/texttechnologylab/WikiDragon) A Java Framework to build and work on MediaWikis offline 
+- [dkpro / dkpro-jwpl](https://github.com/dkpro/dkpro-jwpl) DKPro JWPL (DKPro Java Wikipedia Library) is a free, Java-based application programming interface that facilitates access to all information in Wikipedia. 
 
 ## Editor related
 - [benweet / stackedit](https://github.com/benweet/stackedit) In-browser Markdown editor
 - [pkulchenko / syncX](https://github.com/pkulchenko/syncX) SyncX is an implementation of a CRDT synchronization algorithm in Lua 
 - [martinring / tmlanguage](https://github.com/martinring/tmlanguage) json schema for textmate grammar definitions 
+- [overleaf / overleaf](https://github.com/overleaf/overleaf) A web-based collaborative LaTeX editor
 
 ## GIS
 - [kakuilan / china_area_mysql](https://github.com/kakuilan/china_area_mysql) China 5 levels of administrative regions mysql library
@@ -81,6 +101,14 @@ I'll organize all my starred repositories here.
 - [smarr / SOM](https://github.com/smarr/SOM) SOM - Simple Object Machine 
   - [smarr / are-we-fast-yet](https://github.com/smarr/are-we-fast-yet) Are We Fast Yet? Comparing Language Implementations with Objects, Closures, and Arrays 
   - [rochus-keller / Som](https://github.com/rochus-keller/Som) Parser, code model, navigable browser and VM for the SOM Smalltalk dialect 
+- [strblr / pegase](https://github.com/strblr/pegase) An inline, fast, powerful and lightweight PEG parser generator for JavaScript and TypeScript, with semantic actions, parametrized rules, support for native regexps, error recovery, warnings, integr…
+- [peggyjs / peggy](https://github.com/peggyjs/peggy) Peggy: Parser generator for JavaScript 
+
+## Books
+- [chai2010 / advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) Advanced Programming in Go Language open source book covering advanced topics such as CGO, Go assembly language, RPC implementation, Protobuf plugin implementation, Web framework implementation, distributed systems, etc. (complete) 
+- [chai2010 / ugo-compiler-book](https://github.com/chai2010/ugo-compiler-book) µGo language implementation (develop a mini Go language compiler from scratch) 
+- [chai2010 / go-ast-book](https://github.com/chai2010/go-ast-book) Getting Started with Go Syntax Trees - A Journey to Start a Homebrew Programming Language and Compiler (Open Source Free Book/Go Language Advanced/ Mastering Abstract Syntax Trees/Go Language AST/Concave Language) 
+- [KaiserY / trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) Rust Programming Language (2nd Edition & 2018 edition) 
 
 ## Others
 
@@ -99,6 +127,14 @@ I'll organize all my starred repositories here.
 - [AppFlowy-IO / appflowy](https://github.com/AppFlowy-IO/appflowy) AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. 
 - [Rust-GPU / Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. 
 - [ihciah / clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) Dropping GFW DNS contaminated packets based on Rust + eBPF 
+- [Byron / gitoxide](https://github.com/Byron/gitoxide) An idiomatic, lean, fast & safe pure Rust implementation of Git 
+
+### QQ bot
+- [Icalingua / Icalingua](https://github.com/Icalingua/Icalingua) A Linux client for QQ and more
+
+### Unix
+- [chubin / awesome-console-services](https://github.com/chubin/awesome-console-services) A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols) 
+- [ibraheemdev / modern-unix](https://github.com/ibraheemdev/modern-unix) A collection of modern/faster/saner alternatives to common unix commands. 
 
 ### Miscellaneous
 - [allo- / firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) Tool to create firefox profiles with good defaults. 
@@ -110,4 +146,10 @@ I'll organize all my starred repositories here.
 - [ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched 
 - [shijiebei2009 / CEC-Corpus](https://github.com/shijiebei2009/CEC-Corpus) Chinese Emergency Corpus
 - [Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) This is a theme disguising Typora into Chinese LaTeX style. 
-
+- [alaskasquirrel / Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) newsletter RSS Collection 
+- [frol / completely-unscientific-benchmarks](https://github.com/frol/completely-unscientific-benchmarks) Naive performance comparison of a few programming languages
+- [hansonkd / Tino](https://github.com/hansonkd/Tino) A one-of-a-kind, stupid fast, Python API using Redis Protocol and MsgPack 
+- [adrianscheff / useful-sed](https://github.com/adrianscheff/useful-sed) Useful sed scripts & patterns. 
+- [huihut / interview](https://github.com/huihut/interview) This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, in… 
+- [jinwyp / oreilly-generator](https://github.com/jinwyp/oreilly-generator) oreilly-generator 
+- [OpenIMSDK / Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.
