@@ -16,6 +16,7 @@ I'll organize all my starred repositories here.
 - [Tencent / LuaPanda](https://github.com/Tencent/LuaPanda) lua debug and code tools for VS Code 
 - [nicoster / lua-resty-console](https://github.com/nicoster/lua-resty-console) Interactive console (REPL) for Openresty to inspect Lua VM internals, to run lua code, to invoke functions and more 
 - [Tencent / LuaHelper](https://github.com/Tencent/LuaHelper) LuaHelper is a High-performance lua VSCode plugin, Language Server Protocol for lua. 
+- [rochus-keller / LjTools](https://github.com/rochus-keller/LjTools) LuaJIT 2.0 bytecode parser, viewer, assembler and test VM. Lua 5.1 parser, IDE and debugger. 
 
 ### distributions
 - [jjensen / luaplus51-all](https://github.com/jjensen/luaplus51-all) Full LuaPlus distribution 
@@ -57,6 +58,8 @@ I'll organize all my starred repositories here.
 - [moonrailgun / chinese-address-generator](https://github.com/moonrailgun/chinese-address-generator) China Address Generator - Level 3 Address Level 4 Address Randomly Generated Full Address 
 - [tabatkins / railroad-diagrams](https://github.com/tabatkins/railroad-diagrams) A small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org. Now with a Python port! 
 - [ken107 / read-aloud](https://github.com/ken107/read-aloud) An awesome browser extension that reads aloud webpage content with one click 
+- [agershun / alasql](https://github.com/agershun/alasql) AlaSQL.js - JavaScript SQL database for browser and Node.js.
+- [101arrowz / fzstd](https://github.com/101arrowz/fzstd) High performance Zstandard decompression in a pure JavaScript, 8kB package 
 
 ## Front-end
 - [LeaVerou / md-block](https://github.com/LeaVerou/md-block) A custom element for rendering stylable (light DOM) Markdown
@@ -87,6 +90,9 @@ I'll organize all my starred repositories here.
 - [RazeSoldier / Mediawiki-extension-EveOnlineSSOAuth](https://github.com/RazeSoldier/Mediawiki-extension-EveOnlineSSOAuth) This extension expands WSOAuth extension and provide a EveOnline SSO login method 
 - [texttechnologylab / WikiDragon](https://github.com/texttechnologylab/WikiDragon) A Java Framework to build and work on MediaWikis offline 
 - [dkpro / dkpro-jwpl](https://github.com/dkpro/dkpro-jwpl) DKPro JWPL (DKPro Java Wikipedia Library) is a free, Java-based application programming interface that facilitates access to all information in Wikipedia. 
+- [Code0x58 / parse_wiki_text](https://github.com/Code0x58/parse_wiki_text) Parse wiki text from Mediawiki into a tree of elements 
+- [TrueBrain / wikitexthtml](https://github.com/TrueBrain/wikitexthtml) Library to render WikiText to HTML 
+- [TrueBrain / TrueWiki](https://github.com/TrueBrain/TrueWiki) A wikiserver alternative to mediawiki and gollum 
 
 ## Editor related
 - [benweet / stackedit](https://github.com/benweet/stackedit) In-browser Markdown editor
@@ -153,3 +159,6 @@ I'll organize all my starred repositories here.
 - [huihut / interview](https://github.com/huihut/interview) This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, in… 
 - [jinwyp / oreilly-generator](https://github.com/jinwyp/oreilly-generator) oreilly-generator 
 - [OpenIMSDK / Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.
+- [Stefan-S / mermaid-extension](https://github.com/Stefan-S/mermaid-extension) browser extensions for mermaid a fork from the currently not updated mermaid-github-extension 
+- [nickboucher / trojan-source](https://github.com/nickboucher/trojan-source) Trojan Source: Invisible Vulnerabilities 
+
