@@ -38,6 +38,10 @@ I'll organize all my starred repositories here.
 - [NightNord / ljd](https://github.com/NightNord/ljd) LuaJIT raw-bytecode decompiler 
 - [kingluo / luajit.io](https://github.com/kingluo/luajit.io)  luajit io framework 
 - [leafo / lapis-bayes](https://github.com/leafo/lapis-bayes) Naive Bayes classifier for use in Lua
+- [hoelzro / lua-procure](https://github.com/hoelzro/lua-procure) A Pure Lua implementation of require() 
+- [kikito / lua-sandbox](https://github.com/kikito/lua-sandbox) A lua sandbox for executing non-trusted code 
+- [silentbicycle / tamale](https://github.com/silentbicycle/tamale) TAble MAtching Lua Extension - An Erlang-style pattern-matching library for Lua 
+- [luafun / luafun](https://github.com/luafun/luafun) Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind. 
 
 ## JavaScript
 
@@ -60,6 +64,8 @@ I'll organize all my starred repositories here.
 - [ken107 / read-aloud](https://github.com/ken107/read-aloud) An awesome browser extension that reads aloud webpage content with one click 
 - [agershun / alasql](https://github.com/agershun/alasql) AlaSQL.js - JavaScript SQL database for browser and Node.js.
 - [101arrowz / fzstd](https://github.com/101arrowz/fzstd) High performance Zstandard decompression in a pure JavaScript, 8kB package 
+- [101arrowz / fflate](https://github.com/101arrowz/fflate) High performance (de)compression in an 8kB package 
+- [yihui / zdict.js](https://github.com/yihui/zdict.js) zdict data
 
 ## Front-end
 - [LeaVerou / md-block](https://github.com/LeaVerou/md-block) A custom element for rendering stylable (light DOM) Markdown
@@ -99,6 +105,8 @@ I'll organize all my starred repositories here.
 - [pkulchenko / syncX](https://github.com/pkulchenko/syncX) SyncX is an implementation of a CRDT synchronization algorithm in Lua 
 - [martinring / tmlanguage](https://github.com/martinring/tmlanguage) json schema for textmate grammar definitions 
 - [overleaf / overleaf](https://github.com/overleaf/overleaf) A web-based collaborative LaTeX editor
+- [zyedidia / micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor
+- [zyedidia / flare](https://github.com/zyedidia/flare) Syntax highlighting engine built using GPeg 
 
 ## GIS
 - [kakuilan / china_area_mysql](https://github.com/kakuilan/china_area_mysql) China 5 levels of administrative regions mysql library
@@ -109,12 +117,16 @@ I'll organize all my starred repositories here.
   - [rochus-keller / Som](https://github.com/rochus-keller/Som) Parser, code model, navigable browser and VM for the SOM Smalltalk dialect 
 - [strblr / pegase](https://github.com/strblr/pegase) An inline, fast, powerful and lightweight PEG parser generator for JavaScript and TypeScript, with semantic actions, parametrized rules, support for native regexps, error recovery, warnings, integr…
 - [peggyjs / peggy](https://github.com/peggyjs/peggy) Peggy: Parser generator for JavaScript 
+- [Azganoth / tree-sitter-lua](https://github.com/Azganoth/tree-sitter-lua) Lua grammar for tree-sitter. 
 
 ## Books
 - [chai2010 / advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) Advanced Programming in Go Language open source book covering advanced topics such as CGO, Go assembly language, RPC implementation, Protobuf plugin implementation, Web framework implementation, distributed systems, etc. (complete) 
 - [chai2010 / ugo-compiler-book](https://github.com/chai2010/ugo-compiler-book) µGo language implementation (develop a mini Go language compiler from scratch) 
 - [chai2010 / go-ast-book](https://github.com/chai2010/go-ast-book) Getting Started with Go Syntax Trees - A Journey to Start a Homebrew Programming Language and Compiler (Open Source Free Book/Go Language Advanced/ Mastering Abstract Syntax Trees/Go Language AST/Concave Language) 
 - [KaiserY / trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) Rust Programming Language (2nd Edition & 2018 edition) 
+
+## Browser extensions
+- [betterRunner / context-note](https://github.com/betterRunner/context-note) A note-taking chrome extension: taking notes on the web with their context. 
 
 ## Others
 
@@ -161,4 +173,6 @@ I'll organize all my starred repositories here.
 - [OpenIMSDK / Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.
 - [Stefan-S / mermaid-extension](https://github.com/Stefan-S/mermaid-extension) browser extensions for mermaid a fork from the currently not updated mermaid-github-extension 
 - [nickboucher / trojan-source](https://github.com/nickboucher/trojan-source) Trojan Source: Invisible Vulnerabilities 
-
+- [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules) Flight rules for git
+- [TommyLemon / APIAuto](https://github.com/TommyLemon/APIAuto) The most advanced tool for HTTP API. Testing with machine learning, generating codes and static analysis, generating comments and floating h… 
+- [jgm / pandoc](https://github.com/jgm/pandoc) Universal markup converter 
