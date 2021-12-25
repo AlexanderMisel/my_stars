@@ -6,17 +6,20 @@ I'll organize all my starred repositories here.
 
 ### log
 - [cloudflare / lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) Raw-socket-based Logger Library for Nginx (based on ngx_lua) 
+- [leehomewl / nginx_log_analysis](https://github.com/leehomewl/nginx_log_analysis) nginx log analysis 
 
 ### system api
 - [justincormack / ljsyscall](https://github.com/justincormack/ljsyscall) LuaJIT Unix syscall FFI
 - [luaposix / luaposix](https://github.com/luaposix/luaposix) Lua bindings for POSIX APIs 
 
-### debug
+### debugging and profiling
 - [pkulchenko / MobDebug](https://github.com/pkulchenko/MobDebug) Remote debugger for Lua. 
 - [Tencent / LuaPanda](https://github.com/Tencent/LuaPanda) lua debug and code tools for VS Code 
 - [nicoster / lua-resty-console](https://github.com/nicoster/lua-resty-console) Interactive console (REPL) for Openresty to inspect Lua VM internals, to run lua code, to invoke functions and more 
 - [Tencent / LuaHelper](https://github.com/Tencent/LuaHelper) LuaHelper is a High-performance lua VSCode plugin, Language Server Protocol for lua. 
 - [rochus-keller / LjTools](https://github.com/rochus-keller/LjTools) LuaJIT 2.0 bytecode parser, viewer, assembler and test VM. Lua 5.1 parser, IDE and debugger. 
+- [jgrahamc / lulip](https://github.com/jgrahamc/lulip) Line-level profiler for code running in LuaJIT 
+- [GitSparTV / LuaJIT-Benchmarks](https://github.com/GitSparTV/LuaJIT-Benchmarks) LuaJIT Benchmark tests
 
 ### distributions
 - [jjensen / luaplus51-all](https://github.com/jjensen/luaplus51-all) Full LuaPlus distribution 
@@ -28,6 +31,7 @@ I'll organize all my starred repositories here.
 - [BeanYoung / lua-resty-ga](https://github.com/BeanYoung/lua-resty-ga) Send nginx/openresty access log to Google Analytics.
 - [alibaba / tengine](https://github.com/alibaba/tengine) A distribution of Nginx with some advanced features 
 - [cdbattags / lua-resty-jwt](https://github.com/cdbattags/lua-resty-jwt) JWT For The Great Openresty 
+- [thibaultcha / lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache) Layered caching library for OpenResty 
 
 ### others
 - [ahgamut / LuaJIT-cosmo](https://github.com/ahgamut/LuaJIT-cosmo) LuaJIT 2.1.0-beta3 compiled with Cosmopolitan Libc 
@@ -42,6 +46,10 @@ I'll organize all my starred repositories here.
 - [kikito / lua-sandbox](https://github.com/kikito/lua-sandbox) A lua sandbox for executing non-trusted code 
 - [silentbicycle / tamale](https://github.com/silentbicycle/tamale) TAble MAtching Lua Extension - An Erlang-style pattern-matching library for Lua 
 - [luafun / luafun](https://github.com/luafun/luafun) Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind. 
+- [MikePall / lua-rpi-gpio](https://github.com/MikePall/lua-rpi-gpio) Lua interface to Raspberry Pi GPIO
+- [jgrahamc / aho-corasick-lua](https://github.com/jgrahamc/aho-corasick-lua) Lua implementation of the Aho-Corasick string matching algorithm 
+- [tomas / luaprompt](https://github.com/tomas/luaprompt) A nicer prompt for lua & luajit
+- [daurnimator / lua-unistring](https://github.com/daurnimator/lua-unistring) Lua bindings to libunistring
 
 ## JavaScript
 
@@ -66,6 +74,8 @@ I'll organize all my starred repositories here.
 - [101arrowz / fzstd](https://github.com/101arrowz/fzstd) High performance Zstandard decompression in a pure JavaScript, 8kB package 
 - [101arrowz / fflate](https://github.com/101arrowz/fflate) High performance (de)compression in an 8kB package 
 - [yihui / zdict.js](https://github.com/yihui/zdict.js) zdict data
+- [jlongster / absurd-sql](https://github.com/jlongster/absurd-sql) 
+- [Jxck / html2json](https://github.com/Jxck/html2json) html2json & json2html 
 
 ## Front-end
 - [LeaVerou / md-block](https://github.com/LeaVerou/md-block) A custom element for rendering stylable (light DOM) Markdown
@@ -99,6 +109,7 @@ I'll organize all my starred repositories here.
 - [Code0x58 / parse_wiki_text](https://github.com/Code0x58/parse_wiki_text) Parse wiki text from Mediawiki into a tree of elements 
 - [TrueBrain / wikitexthtml](https://github.com/TrueBrain/wikitexthtml) Library to render WikiText to HTML 
 - [TrueBrain / TrueWiki](https://github.com/TrueBrain/TrueWiki) A wikiserver alternative to mediawiki and gollum 
+- [wikimedia / arc-lamp](https://github.com/wikimedia/arc-lamp) Flame graphs and trace logs for PHP 7 in production.
 
 ## Editor related
 - [benweet / stackedit](https://github.com/benweet/stackedit) In-browser Markdown editor
@@ -110,6 +121,7 @@ I'll organize all my starred repositories here.
 
 ## GIS
 - [kakuilan / china_area_mysql](https://github.com/kakuilan/china_area_mysql) China 5 levels of administrative regions mysql library
+- [onthegomap / planetiler](https://github.com/onthegomap/planetiler) Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours 
 
 ## Compiler and parsing
 - [smarr / SOM](https://github.com/smarr/SOM) SOM - Simple Object Machine 
@@ -127,6 +139,7 @@ I'll organize all my starred repositories here.
 
 ## Browser extensions
 - [betterRunner / context-note](https://github.com/betterRunner/context-note) A note-taking chrome extension: taking notes on the web with their context. 
+- [Stefan-S / mermaid-extension](https://github.com/Stefan-S/mermaid-extension) browser extensions for mermaid a fork from the currently not updated mermaid-github-extension 
 
 ## Others
 
@@ -153,6 +166,7 @@ I'll organize all my starred repositories here.
 ### Unix
 - [chubin / awesome-console-services](https://github.com/chubin/awesome-console-services) A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols) 
 - [ibraheemdev / modern-unix](https://github.com/ibraheemdev/modern-unix) A collection of modern/faster/saner alternatives to common unix commands. 
+- [ogham / dog](https://github.com/ogham/dog) A command-line DNS client. 
 
 ### Miscellaneous
 - [allo- / firefox-profilemaker](https://github.com/allo-/firefox-profilemaker) Tool to create firefox profiles with good defaults. 
@@ -171,8 +185,11 @@ I'll organize all my starred repositories here.
 - [huihut / interview](https://github.com/huihut/interview) This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, in… 
 - [jinwyp / oreilly-generator](https://github.com/jinwyp/oreilly-generator) oreilly-generator 
 - [OpenIMSDK / Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.
-- [Stefan-S / mermaid-extension](https://github.com/Stefan-S/mermaid-extension) browser extensions for mermaid a fork from the currently not updated mermaid-github-extension 
 - [nickboucher / trojan-source](https://github.com/nickboucher/trojan-source) Trojan Source: Invisible Vulnerabilities 
 - [k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules) Flight rules for git
 - [TommyLemon / APIAuto](https://github.com/TommyLemon/APIAuto) The most advanced tool for HTTP API. Testing with machine learning, generating codes and static analysis, generating comments and floating h… 
 - [jgm / pandoc](https://github.com/jgm/pandoc) Universal markup converter 
+- [ds300 / patch-package](https://github.com/ds300/patch-package) Fix broken node modules instantly
+- [brendangregg / FlameGraph](https://github.com/brendangregg/FlameGraph) Stack trace visualizer 
+- [deepmind / mujoco](https://github.com/deepmind/mujoco) Multi-Joint dynamics with Contact. A general purpose physics simulator. 
+- [open-meteo / open-meteo](https://github.com/open-meteo/open-meteo) Free Weather Forecast API for non-commercial use 
